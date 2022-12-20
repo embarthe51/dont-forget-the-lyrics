@@ -1,0 +1,15 @@
+.home-btn {
+  color: black;
+  padding: 8px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #FAC7C6;
+  transition: background 0.3s ease;
+  border: 1px solid;
+  width: 222px;
+}
+
+.home-btn:hover {
+  background: #ffe7e7;
+  color: black;
+}
